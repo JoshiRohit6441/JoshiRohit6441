@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>🔭 I’m currently working on:<br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br><br>🌱 I’m currently learning:<br>Docker.<br><br>💬 Ask me about:<br>JavaScript, React,  Node.js and any general software development questions.<br><br>⚡ Fun fact:<br>I love creating content.
+💫 About Me:<br>🔭 I’m currently working on:<br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br><br>🌱 I’m currently learning:<br>Docker.<br><br>💬 Ask me about:<br>JavaScript, React,  Node.js and any general software development questions.<br><br>⚡ Fun fact:<br>I love learning new things.
 
 
 ## 🌐 Socials:
